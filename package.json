@@ -1,0 +1,27 @@
+{
+  "name": "search-three",
+  "version": "0.1.0",
+  "description": "Kagi + Exa + Marginalia web-research skills: multi-engine fan-out with cross-engine agreement, and a page-extraction fallback ladder.",
+  "keywords": [
+    "pi-package",
+    "agent-skills",
+    "kagi",
+    "exa",
+    "marginalia",
+    "web-search"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomooshi/search-three.git"
+  },
+  "private": true,
+  "pi": {
+    "skills": [
+      "./skills"
+    ],
+    "extensions": [
+      "./extensions/search-cost/index.ts"
+    ]
+  }
+}

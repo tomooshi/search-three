@@ -1,0 +1,12 @@
+{
+  "name": "search-three",
+  "version": "0.1.0",
+  "description": "Kagi + Exa + Marginalia web-research skills: multi-engine fan-out with cross-engine agreement, and a page-extraction fallback ladder.",
+  "author": {
+    "name": "tomooshi"
+  },
+  "homepage": "https://github.com/tomooshi/search-three",
+  "repository": "https://github.com/tomooshi/search-three",
+  "license": "MIT",
+  "keywords": ["search", "research", "kagi", "exa", "marginalia"]
+}
